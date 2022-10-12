@@ -1,7 +1,7 @@
 Job Tracker is a responsive web app that allows users to keep track of their job applications.
 
 Register and login functionality with user authentication.
-Users can add, edit and delete job applications, change job status and view job stats either as a bar chart or areaa chart.  
+Users can add, edit and delete job applications, change job status and view job stats either as a bar chart or area chart.  
 Search function to find specific job applications.
 Pagination to display job applications on multiple pages (10 job applications per page ) 
 Users can amend their profile.   
