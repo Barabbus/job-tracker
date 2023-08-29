@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises'
+import { readFile } from 'fs/ promises'
 
 import dotenv from 'dotenv'
 dotenv.config()
